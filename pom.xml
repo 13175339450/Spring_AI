@@ -12,6 +12,7 @@
     <modules>
         <module>SAA-01-SimpleExample</module>
         <module>SAA-00-Common</module>
+        <module>SAA-02-ChatClient-Create</module>
     </modules>
 
     <properties>
