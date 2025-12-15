@@ -14,6 +14,7 @@
         <module>SAA-00-Common</module>
         <module>SAA-02-ChatClient-Create</module>
         <module>SAA-03-ChatClient-CreateConfig</module>
+        <module>SAA-04-MultiModel</module>
     </modules>
 
     <properties>
