@@ -19,6 +19,7 @@
         <module>SAA-05-AI-Project</module>
         <module>SAA-06-Prompt-Set</module>
         <module>SAA-07-Dynamic-Prompt</module>
+        <module>SAA-08-Multi-Format-Output</module>
     </modules>
 
     <properties>
