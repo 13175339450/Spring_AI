@@ -20,6 +20,8 @@
         <module>SAA-06-Prompt-Set</module>
         <module>SAA-07-Dynamic-Prompt</module>
         <module>SAA-08-Multi-Format-Output</module>
+        <module>SAA-09-Chat-Memory</module>
+        <module>SAA-00-Memory-Config</module>
     </modules>
 
     <properties>
